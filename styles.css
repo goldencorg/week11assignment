@@ -1,0 +1,7 @@
+/* these styles sets height of each box and width of overall grid */
+#grid{
+    max-width: 300px;
+}
+.box{
+    min-height: 100px;
+}
